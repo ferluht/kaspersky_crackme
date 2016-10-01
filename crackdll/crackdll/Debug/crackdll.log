@@ -1,0 +1,15 @@
+﻿Сборка начата 01/10/2016 16:29:16.
+     1>Проект "c:\Users\ferluht\documents\visual studio 2015\Projects\crackdll\crackdll\crackdll.vcxproj" в узле 2 (целевые объекты Build).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _USRDLL /D CRACKDLL_EXPORTS /D _WINDLL /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt dllmain.cpp
+         dllmain.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"c:\users\ferluht\documents\visual studio 2015\Projects\crackdll\Debug\crackdll.dll" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"c:\users\ferluht\documents\visual studio 2015\Projects\crackdll\Debug\crackdll.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"c:\users\ferluht\documents\visual studio 2015\Projects\crackdll\Debug\crackdll.lib" /MACHINE:X86 /DLL Debug\crackdll.obj
+         Debug\dllmain.obj
+         Debug\stdafx.obj
+         crackdll.vcxproj -> c:\users\ferluht\documents\visual studio 2015\Projects\crackdll\Debug\crackdll.dll
+     1>Сборка проекта "c:\Users\ferluht\documents\visual studio 2015\Projects\crackdll\crackdll\crackdll.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+
+Затраченное время: 00:00:02.26
